@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+google-generativeai
+requests
+psycopg2-binary
